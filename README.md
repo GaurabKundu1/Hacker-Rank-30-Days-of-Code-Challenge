@@ -1,1 +1,2 @@
 # Hacker-Rank-30-Days-of-Code-Challenge
+30 days of code is a challenge by Hackerrank for 30 days. You can solve a problem day by day. You can find a solution for others domain and sub-domain solution, i.e. hacker rank solution for C++ subdomain introduction, strings, classes, STL, inheritance, other concepts, algorithms, miscellaneous. This Repository contains the solutions of all the problems in the 30 Days of Code Challenge.
